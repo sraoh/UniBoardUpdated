@@ -1,0 +1,295 @@
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Moq.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\nunit.framework.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\log4net.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\AutoMapper.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Utility.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Optimization.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\StructureMap.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebActivator.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\PagedList.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Newtonsoft.Json.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebGrease.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Antlr3.Runtime.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\log4net.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Utility.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csprojResolveAssemblyReference.cache
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csprojResolveAssemblyReference.cache
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll.config
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Moq.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\nunit.framework.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\log4net.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Utility.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\AutoMapper.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebActivator.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Optimization.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\StructureMap.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebMatrix.WebData.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\PagedList.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebGrease.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Newtonsoft.Json.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\WebMatrix.Data.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Antlr3.Runtime.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\log4net.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Utility.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Moq.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\nunit.framework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\log4net.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Utility.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\AutoMapper.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\WebActivator.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Optimization.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\StructureMap.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\WebMatrix.WebData.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\PagedList.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\WebGrease.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Newtonsoft.Json.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Antlr3.Runtime.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\log4net.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Utility.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csprojResolveAssemblyReference.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.DomainService.Test.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Moq.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\nunit.framework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\log4net.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Utility.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\AutoMapper.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\WebActivator.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Optimization.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\StructureMap.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\PagedList.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Org.Mentalis.Security.Cryptography.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Mono.Math.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Model.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\log4net.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Utility.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Mvc.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Optimization.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Service.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\EntityFramework.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\StructureMap.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\StructureMap.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.AspNet.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Http.WebHost.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Repository.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Cognite.MembershipProvider.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\PagedList.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Razor.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Razor.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OAuth.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.Core.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\DotNetOpenAuth.OpenId.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Org.Mentalis.Security.Cryptography.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\Mono.Math.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csprojResolveAssemblyReference.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\obj\Debug\UniEBoard.DomainService.Test.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.DomainService.Test\bin\Debug\System.Web.Helpers.xml

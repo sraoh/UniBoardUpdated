@@ -1,0 +1,111 @@
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll.config
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\log4net.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\MySql.Data.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\mysql.data.entity.EF6.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\System.Data.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\System.Data.Entity.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Utility.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\AutoMapper.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Model.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Utility.pdb
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\log4net.xml
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csprojResolveAssemblyReference.cache
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.dll
+F:\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll.config
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\log4net.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\MySql.Data.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\mysql.data.entity.EF6.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\System.Data.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\System.Data.Entity.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Utility.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\AutoMapper.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\System.Web.Mvc.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\UniEBoard.Model.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\Utility.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\bin\Debug\log4net.xml
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csprojResolveAssemblyReference.cache
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\EntityFramework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\log4net.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\mysql.data.entity.EF6.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\System.Data.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Utility.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\AutoMapper.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\System.Web.Mvc.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Model.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\Utility.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\EntityFramework.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\bin\Debug\log4net.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csprojResolveAssemblyReference.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Repository.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\EntityFramework.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\log4net.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\mysql.data.entity.EF6.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\System.Data.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Utility.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\AutoMapper.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\System.Web.Mvc.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Model.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\UniEBoard.Model.dll.config
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\Utility.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\EntityFramework.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\bin\Debug\log4net.xml
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csprojResolveAssemblyReference.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\UniEBoard.Repository\obj\Debug\UniEBoard.Repository.pdb

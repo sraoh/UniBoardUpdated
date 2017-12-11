@@ -1,0 +1,32 @@
+F:\UniEBoard-App\UniEBoard-App\Resource\bin\Debug\UniEBoard.Resource.dll
+F:\UniEBoard-App\UniEBoard-App\Resource\bin\Debug\UniEBoard.Resource.pdb
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\Resource.csprojResolveAssemblyReference.cache
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.EntityDisplayNames.resources
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.ResourceCSSStyles.resources
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\Resource.csproj.GenerateResource.Cache
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.dll
+F:\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\bin\Debug\UniEBoard.Resource.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\bin\Debug\UniEBoard.Resource.pdb
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.EntityDisplayNames.resources
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.ResourceCSSStyles.resources
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\Resource.csproj.GenerateResource.Cache
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.dll
+E:\UnieBoardRepository\UniEBoard-App\UniEBoard-App\UniEBoard-App\Resource\obj\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\bin\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\bin\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\UniEBoard.Resource.EntityDisplayNames.resources
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\UniEBoard.Resource.ResourceCSSStyles.resources
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\Resource.csproj.GenerateResource.Cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\Resource.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master\Resource\obj\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\bin\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\bin\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\UniEBoard.Resource.EntityDisplayNames.resources
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\UniEBoard.Resource.ResourceCSSStyles.resources
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\Resource.csproj.GenerateResource.Cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\Resource.csproj.CoreCompileInputs.cache
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\UniEBoard.Resource.dll
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\UniEBoard.Resource.pdb
+E:\UNIEBOARD\08122017\LatestUnieboard-master - Copy\Resource\obj\Debug\Resource.csprojResolveAssemblyReference.cache
